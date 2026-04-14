@@ -1,0 +1,5 @@
+checl always for list comperhinsion rules when to put condition
+
+map enumarate lambda
+
+return after while and with out any think in linked lists recursion and teturn true and false
