@@ -52,3 +52,7 @@ async def finder(db, reader, writer):
 async def supervisor(db, host: str, port: int):
     await asyncio.start_server(functools.partial(finder(finder,db)),host,port)
     print(f'Fruit Server running on {host}:{port}')
+
+
+'''
+Use 
